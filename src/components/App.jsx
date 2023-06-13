@@ -1,9 +1,8 @@
 export const App = () => {
   return (
-    <div
-      
-    >
-      <h1> Landing </h1>
+    <div className="App">
+      <h1>AppJsx</h1>
     </div>
   );
 };
+  
