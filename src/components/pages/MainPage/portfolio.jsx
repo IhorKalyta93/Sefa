@@ -22,10 +22,7 @@ export default function HomePage() {
     </style>
 </head>
 <body>
-    <h1>Product List</h1>
-
-    <ul id="productList"></ul>
-
+   
     
 </body>
   );
